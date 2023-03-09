@@ -1,0 +1,214 @@
+
+.head
+{
+    background-color:aquamarine;
+    height: 70px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    flex: 1 1 1;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    font-family: arial;
+    font-size: 17px;
+
+}
+.mid-head
+{
+    margin-left: -40px;
+}
+.left-head
+{
+    padding-left: 20px;
+}
+.rh-p1
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.rh-p2
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin-right: 15px;
+}
+.rh-p3
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin-right: 15px;
+}
+.rh-p4
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin-right: 15px;
+}
+.main 
+{
+    padding-top: 70px;
+    padding-left: 120px;
+}
+.message
+{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 100px;
+}
+.text-messsage
+{
+    font-family: Arial;
+    font-size: 17px;
+}
+.mr1-p1
+{
+    width: 300px;
+    height: 300px;
+    margin-right: -3.9px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.mr1-p2
+{
+    width: 300px;
+    height: 300px;
+    margin-right: -3.9px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    
+}
+.mr1-p3
+{
+    width: 200px;
+    height: 300px;
+    margin-right: -3.8px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.mr1-p4
+{
+    width: 305px;
+    height: 300px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.emotion
+{
+    padding-top: 20px;
+    display: flex;
+    align-items: end;
+
+}
+.text
+{
+    padding-left: 4px;
+    padding-right: 6px;
+    padding-top: 5px;
+    font-family: Arial;
+    font-size: 17px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 345px;
+}
+
+.daddy-birthday
+{
+    margin-top: -16px;
+    width: 355px;
+    height: 350px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.roam
+{
+    padding-top: 5px;
+    padding-right: 6px;
+    padding-left: 5px;
+    margin-left: 14px;
+    font-family: Arial;
+    font-size: 17px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 450px;
+    padding-bottom: -40px;;
+}
+.roam-family
+{
+    margin-left: 10px;
+    margin-top: -16px;
+    width: 461px;
+    height: 350px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.brother
+{
+    padding-top: 5px;
+    padding-right: 6px;
+    padding-left: 5px;
+    margin-left: 14px;
+    font-family: Arial;
+    font-size: 17px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 259px;
+    padding-bottom: -40px;;
+}
+.bs-pic
+{
+    margin-left: 10px;
+    margin-top: -16px;
+    width: 270px;
+    height: 350px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.tihar1
+{
+    height: 400px;
+    width: 700px;
+}
+.tihar3
+{
+    height: 400px;
+    width: 350px;
+}
+.tihar2
+{
+    width: 500px;
+    height: 300px;
+}
+.single1
+{
+    width: 1200px;
+    height: 500px;
+}
